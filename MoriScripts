@@ -9,5 +9,5 @@ elseif game.PlaceId == 8737602449 then
 elseif game.PlaceId == 85896571713843 or game.PlaceId == 80630096603395 or game.PlaceId == 98046029518959 or game.PlaceId == 127738893422250 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/BGSI"))()
 elseif game.PlaceId == 920587237 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/BGSI"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/ADM"))()
 end
