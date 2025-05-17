@@ -6,4 +6,6 @@ elseif game.PlaceId == 18901165922 or game.PlaceId == 19006211286 or game.PlaceI
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/PETSGO"))()
 elseif game.PlaceId == 8737602449 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/PLSDONATE"))()
+elseif game.PlaceId == 85896571713843 or game.PlaceId == 80630096603395 or game.PlaceId == 98046029518959 or game.PlaceId == 127738893422250 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/BGSI"))()
 end
